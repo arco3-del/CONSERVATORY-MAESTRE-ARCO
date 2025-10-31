@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Conservatorio Maestre Arco",
+  "description": "The first digital conservatory powered by AI, a creation of Richard Felipe Urbina to democratise music education globally, featuring AI professors, a personalised curriculum, and offline learning tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
